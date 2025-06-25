@@ -1,0 +1,16 @@
+<vector android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="583.0"
+    android:viewportHeight="583.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Сдвигаем path на (131.2825, 131.2825) -->
+    <group
+        android:translateX="160.22"
+        android:translateY="160.22">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M73.6,146.765l38.885,-38.87L16.075,11.625c-21.435,21.445 -21.435,56.16 0,77.745L73.6,146.765zM166.705,121.91c21.005,9.75 50.545,2.9 72.36,-18.925c26.235,-26.245 31.3,-63.86 11.135,-84.055C230.16,-1.105 192.525,3.825 166.16,30.04c-21.825,21.825 -28.71,51.345 -18.96,72.35L13.175,236.435l19.365,19.365l94.625,-94.33l94.475,94.475l19.375,-19.365L146.53,142.085L166.705,121.91z"
+            android:strokeWidth="1" />
+    </group>
+</vector>
