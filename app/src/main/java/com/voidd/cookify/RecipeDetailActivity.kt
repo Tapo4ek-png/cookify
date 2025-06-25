@@ -190,7 +190,7 @@ fun RecipeDetailScreen(
                 "Посмотрите этот рецепт в Cookify:\n\n" +
                         "${recipe?.get("title")}\n\n" +
                         "Ссылка: $deepLink\n\n" +
-                        "Или скачайте приложение: [ссылка на приложение в маркете]"
+                        "Или скачайте приложение: https://github.com/Tapo4ek-png/cookify/releases/tag/release]"
             )
         }
         ContextCompat.startActivity(
